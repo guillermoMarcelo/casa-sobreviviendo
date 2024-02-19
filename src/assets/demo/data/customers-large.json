@@ -43,6 +43,39 @@
             "image": "achiote-gutti.png"
         },
         "precio": 1.39
+    },
+    {
+        "id": 1004,
+        "producto": "Miel de abeja",       
+        "tienda": "Tuti",           
+        "marca": "Cherie",           
+        "logo": {
+            "name": "Miel de abeja",
+            "image": "miel-abeja-cherie.png"
+        },
+        "precio": 2.05
+    },
+    {
+        "id": 1005,
+        "producto": "Mantequilla Margarina",       
+        "tienda": "Tuti",           
+        "marca": "Gutti",           
+        "logo": {
+            "name": "Mantequilla",
+            "image": "mantequilla-gutti.png"
+        },
+        "precio": 0.69
+    },
+    {
+        "id": 1005,
+        "producto": "Aceite Girasol",       
+        "tienda": "Tuti",           
+        "marca": "Gutti",           
+        "logo": {
+            "name": "Aceite",
+            "image": "aceite-girasol-gutti.png"
+        },
+        "precio": 2.09
     }
   ]
 }
