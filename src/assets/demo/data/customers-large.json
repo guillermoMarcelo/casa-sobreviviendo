@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+        "id": 1000,
+        "producto": "Leche Entera",       
+        "tienda": "Tuti",           
+        "marca": "Parmalat",           
+        "logo": {
+            "name": "Parmalat",
+            "image": "parmalat-funda.png"
+        },
+        "precio": 0.64
+    },
+    {
+        "id": 1001,
+        "producto": "Leche Semidescremada",       
+        "tienda": "Tuti",           
+        "marca": "El hacendado",           
+        "logo": {
+            "name": "Leche Semidescremada",
+            "image": "el-hacendado-leche-semidescremada.png"
+        },
+        "precio": 0.95
+    },
+    {
+        "id": 1002,
+        "producto": "Spaghetti",       
+        "tienda": "Tuti",           
+        "marca": "Maccheron",           
+        "logo": {
+            "name": "Spaghetti",
+            "image": "spaghetti-maccheron.png"
+        },
+        "precio": 0.55
+    },
+    {
+        "id": 1003,
+        "producto": "Achiote",       
+        "tienda": "Tuti",           
+        "marca": "Maccheron",           
+        "logo": {
+            "name": "Achiote",
+            "image": "achiote-gutti.png"
+        },
+        "precio": 1.39
+    }
+  ]
+}
