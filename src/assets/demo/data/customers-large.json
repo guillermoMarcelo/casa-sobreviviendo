@@ -9,7 +9,8 @@
             "name": "Parmalat",
             "image": "parmalat-funda.png"
         },
-        "precio": 0.64
+        "Iva": "12%",
+        "precio": 0.71
     },
     {
         "id": 1001,
@@ -20,6 +21,7 @@
             "name": "Leche Semidescremada",
             "image": "el-hacendado-leche-semidescremada.png"
         },
+        "Iva": "0%",
         "precio": 0.95
     },
     {
@@ -31,6 +33,7 @@
             "name": "Spaghetti",
             "image": "spaghetti-maccheron.png"
         },
+        "Iva": "0%",
         "precio": 0.55
     },
     {
@@ -76,6 +79,51 @@
             "image": "aceite-girasol-gutti.png"
         },
         "precio": 2.09
+    },
+    {
+        "id": 1006,
+        "producto": "Pan Hotdog",       
+        "tienda": "Tuti",           
+        "marca": "-",           
+        "logo": {
+            "name": "Pan Hotdog",
+            "image": ""
+        },
+        "precio": 0.49
+    },
+    {
+        "id": 1007,
+        "producto": "Pan Hamburguesa",       
+        "tienda": "Tuti",           
+        "marca": "-",           
+        "logo": {
+            "name": "Pan Hamburguesa",
+            "image": ""
+        },
+        "precio": 0.65
+    },
+    {
+        "id": 1008,
+        "producto": "Galleta María",       
+        "tienda": "Tuti",           
+        "marca": "-",           
+        "logo": {
+            "name": "Galleta María",
+            "image": ""
+        },
+        "Iva": "12%",
+        "precio": 0.95
+    },
+    {
+        "id": 1009,
+        "producto": "",       
+        "tienda": "Tuti",           
+        "marca": "-",           
+        "logo": {
+            "name": "",
+            "image": ""
+        },
+        "precio": 0.85
     }
   ]
 }
